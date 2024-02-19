@@ -76,7 +76,7 @@ export const MenuUI: React.FC<Props> = ({ defaultPage }) => {
           </Block>
         </Header>
 
-        <WawaBlock href="https://survivalnft.vercel.app/" target="_blank">
+        <WawaBlock href="https://aeonnft.vercel.app/" target="_blank">
           <GifImage src="assets/aeonNFT_b.png" alt="aeonNFT_b" />
           <Link>Mint Survival NFT from here</Link>
         </WawaBlock>

@@ -15,8 +15,8 @@ const wagmiConfig = createConfig(
     walletConnectProjectId: walletConnectProjectID,
     appName: "Survival",
     appDescription: "Isometric game. Build and Defence in the onchain crypto world",
-    appUrl: "",
-    appIcon: "",
+    appUrl: "https://aeons-woad.vercel.app/",
+    appIcon: "https://aeons-woad.vercel.app/assets/logotype.png",
     chains: [opBNBTestnet]
     
   }),
