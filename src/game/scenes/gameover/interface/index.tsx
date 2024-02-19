@@ -21,7 +21,7 @@ export const GameoverUI: React.FC<Props> = ({ stat, record }) => {
       ? game.world.player.wawa?.tokenId
       : "Nothing";
   const shareOnTwitter = () => {
-    const text = `I scored ${stat.score} points! Can you beat my score? https://crypto-defense.vercel.app/ #CryptoDefense`;
+    const text = `I scored ${stat.score} points! Can you beat my score? https://aeons-woad.vercel.app/ #aeonsSurvival #BuildonBNBChain `;
     const url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(
       text
     )}`;
