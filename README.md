@@ -53,7 +53,7 @@ npm i
 b. run the app 
 
 ```bash
-npm run dev
+npm run start
 ```
 
 ## smart contracts deployments 
